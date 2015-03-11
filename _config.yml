@@ -1,0 +1,11 @@
+# Site settings
+title: Eric技术志
+email: 
+description:
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.e0x233.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
